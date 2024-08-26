@@ -7,7 +7,7 @@ Each one will serve a function: Vite for packaging the application, Hybrids is a
 
 ### Running this example
 
-To run this bolerplate you need `node` installed. If you prefer to use `bun`, it will be much faster, so it is recommended!
+To run this boilerplate you need `node` installed. If you prefer to use `bun`, it will be much faster, so it is recommended!
 
 To install dependencies `npm install` or `bun install`.
 To run the provided example, you can use `npm start` or `bun start` command.
