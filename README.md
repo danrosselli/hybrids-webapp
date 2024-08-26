@@ -48,4 +48,5 @@ bunx cap open android
 bunx cap sync
 ```
 
+Now, you can execute this application in Android Studio, and send to mobile.
 Capacitor can create applications for iOS as well, in which case you need to add an additional library for it. See Capacitor documentation for more details.
