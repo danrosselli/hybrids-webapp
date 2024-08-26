@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "hybrids-webapp",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
