@@ -19,7 +19,10 @@ npm start
 ```bash
 bun start
 ```
-To create a mobile application from this boilerplate, you first need to generate a build with vite, and then create the android project:
+
+### To create a mobile application
+
+You first need to generate a build with vite, and then create the android project:
 
 1. Generate the build:
 
