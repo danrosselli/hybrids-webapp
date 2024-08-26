@@ -2,7 +2,7 @@
 
 This boilerplate was created to serve as a basis for creating webapps. It has integrated some technologies that will facilitate development, such as Vite, Hybrids, Bootstrap and Capacitor.
 
-Each one will serve a function: Vite for packaging the application; Hybrids is a reactive framework that facilitates the creation of web components; Bootstrap for grid UI and components; Capacitor to generate mobile applications from a web application;
+Each one will serve a function: Vite for packaging the application, Hybrids is a reactive framework that facilitates the creation of web components, Bootstrap for grid UI and components and Capacitor to generate mobile executables;
 
 
 ### Running this example
