@@ -7,7 +7,7 @@ Each one will serve a function: Vite for packaging the application; Hybrids is a
 
 ### Running this example
 
-To run this bolerplate you need node installed. If you prefer to use bun, it will be much faster, so it is recommended!
+To run this bolerplate you need `node` installed. If you prefer to use `bun`, it will be much faster, so it is recommended!
 
 To install dependencies `npm install` or `bun install`.
 To run the provided example, you can use `npm start` or `bun start` command.
@@ -20,9 +20,9 @@ npm start
 bun start
 ```
 
-### To create a mobile application
+### Create a mobile application
 
-You first need to generate a build with vite, and then create the android project:
+To create a mobile application from this boilerplate, you first need to generate a build with `vite`, and then create the android project:
 
 1. Generate the build:
 
