@@ -1,8 +1,8 @@
-## Hybrids framework boilerplate
+## Electron and Hybrids framework boilerplate
 
-This boilerplate was created to serve as a basis for creating webapps. It has integrated some technologies that will facilitate development, such as Vite, Hybrids, Bootstrap and Capacitor.
+This boilerplate was created to serve as a basis for creating webapps. It has integrated some technologies that will facilitate development, such as Electron, Vite, Hybrids, Bootstrap and Capacitor.
 
-Each one will serve a function: Vite for packaging the application, Hybrids is a reactive framework that facilitates the creation of web components, Bootstrap for grid UI and components and Capacitor to generate mobile version.
+Each one will serve a function: Vite for packaging the application, Hybrids is a reactive framework that facilitates the creation of web components, Bootstrap for grid UI and components and Electron to generate native aplication.
 
 
 ### Running this example
@@ -13,16 +13,16 @@ To install dependencies `npm install` or `bun install`.
 To run the provided example, you can use `npm start` or `bun start` command.
 
 ```bash
-npm start
+bun electron-dev
 ```
 
 ```bash
-bun start
+npm electron-dev
 ```
 
-### Create a mobile application
+### Optional to create a mobile application
 
-To create a mobile application from this boilerplate, you first need to generate a build with `vite`, and then create the android project:
+You can create a mobile application from this boilerplate, because the Capacitor lib is installed too. You first need to generate a build with `vite`, and then create the android project:
 
 1. Generate the build:
 
